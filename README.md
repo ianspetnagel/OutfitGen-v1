@@ -2,7 +2,10 @@
 
 Privacy Policy for OutfitGen v1
 Effective Date: Sep 27, 2026
+
 This Privacy Policy describes how OutfitGen v1 handles data. OutfitGen v1 is a single-user, local desktop application designed to suggest outfits based on photos of your physical clothing and style inspiration from your Pinterest boards.
+
+
 1. Information We Access and Collect
 To provide its core functionality, OutfitGen v1 accesses the following:
 Pinterest Data: The application uses the Pinterest API to read pins from your designated inspiration boards. It strictly requests read-only scopes (boards:read and pins:read).
