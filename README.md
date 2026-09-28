@@ -17,4 +17,4 @@ Your clothing photos remain securely on your local device. Because no data is ho
 4. Data Sharing and Disclosure
 We do not share your data. Because OutfitGen v1 operates entirely on your local machine, any data (including Pinterest data, local photos, and generated outfits) is never transmitted to, shared with, or sold to any third parties, including the developer of OutfitGen v1.
 5. Contact Information
-If you have any questions or concerns about this Privacy Policy or how your data is handled, please contact Ian Sp. (leganteps007@gmail.com)
+If you have any questions or concerns about this Privacy Policy or how your data is handled, please contact Ian Spetnagel. (leganteps007@gmail.com)
